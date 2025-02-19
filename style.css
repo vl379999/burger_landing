@@ -210,7 +210,8 @@ ul {
 
 .order .container {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
+  justify-content: space-evenly;
   align-items: center;
   padding-right: 90px;
 }
